@@ -1,3 +1,7 @@
+# Project ignores
+.data/
+./data_collection/settings_api.yml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
